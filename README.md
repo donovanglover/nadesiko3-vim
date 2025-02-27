@@ -1,6 +1,6 @@
 # nadesiko3-vim
 
-This plugin provides syntax highlighting support for the Japanese programming language [nadesiko3](https://nadesi.com)
+This plugin provides syntax highlighting support for the Japanese programming language [nadesiko3](https://nadesi.com).
 
 日本語プログラミング言語「[なでしこ3](https://github.com/kujirahand/nadesiko3)」用vimのプラグインです。
 
@@ -28,4 +28,4 @@ This plugin provides syntax highlighting support for the Japanese programming la
 
 ## Contributing
 
-Edit `./syntax/nadesiko3.vim` to change the syntax highlighting rules.
+Edit `./syntax/nadesiko3.vim` to change the syntax highlighting rules. For non-trivial changes, add test code to `example.nako3` and use `:source syntax/nadesiko3.vim` to check that the syntax highlighting works as expected.
